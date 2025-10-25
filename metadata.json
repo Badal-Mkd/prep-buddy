@@ -1,0 +1,7 @@
+{
+  "name": "Prep Buddy",
+  "description": "An AI-powered interview preparation tool that helps tech professionals practice with MCQs, Q&A sessions, and live mock interviews for various technologies and difficulty levels.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
